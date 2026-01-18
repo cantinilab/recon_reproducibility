@@ -1,4 +1,5 @@
-This repository contains the code to replicate the experiment of ReCoN's manuscript, accessible [here]()
+This repository contains the code to replicate the experiment of ReCoN's manuscript, accessible [here (soon!)]()
+
 
 We still need to upload all necessary files for the reproduction on Zenodo, it should be out in the coming days!
 <br>Zenodo link: []()
