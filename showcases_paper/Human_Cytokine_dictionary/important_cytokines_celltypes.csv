@@ -1,0 +1,16 @@
+IFN-alpha1,IFN-beta,IFN-gamma,IFN-lambda3,IFN-omega,IL-1-alpha,IL-1-beta,IL-10,IL-12,IL-13,IL-15,IL-2,IL-21,IL-3,IL-32-beta,IL-4,IL-7,Leptin,TL1A,TSLP
+CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono,CD14 Mono
+CD16 Mono,CD16 Mono,CD16 Mono,B Intermediate/Memory,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono,CD16 Mono
+CD4 Memory,CD4 Memory,CD4 Memory,MAIT,CD4 Memory,CD4 Memory,CD4 Memory,B Intermediate/Memory,CD4 Naive,B Intermediate/Memory,CD4 Memory,CD4 Memory,NK CD56bright,HSPC,CD4 Memory,CD4 Memory,CD4 Memory,B Intermediate/Memory,MAIT,MAIT
+CD4 Naive,CD4 Naive,CD4 Naive,NKT,CD4 Naive,CD4 Naive,CD4 Naive,NK CD56bright,NK,B Naive,CD4 Naive,CD4 Naive,B Naive,cDC,CD8 Memory,CD4 Naive,CD4 Naive,Treg,Treg,NK CD56bright
+NKT,CD8 Memory,CD8 Memory,cDC,CD8 Memory,CD8 Naive,CD8 Memory,B Naive,NK CD56bright,cDC,CD8 Memory,CD8 Memory,,,CD8 Naive,CD8 Naive,CD8 Memory,cDC,cDC,Treg
+Treg,CD8 Naive,CD8 Naive,,CD8 Naive,Treg,CD8 Naive,cDC,cDC,,CD8 Naive,CD8 Naive,,,HSPC,B Intermediate/Memory,CD8 Naive,,,cDC
+cDC,HSPC,B Intermediate/Memory,,B Intermediate/Memory,cDC,HSPC,,,,HSPC,HSPC,,,B Intermediate/Memory,MAIT,HSPC,,,
+,B Intermediate/Memory,MAIT,,MAIT,,B Intermediate/Memory,,,,B Intermediate/Memory,B Intermediate/Memory,,,MAIT,NK,B Intermediate/Memory,,,
+,MAIT,NK,,NK,,MAIT,,,,MAIT,MAIT,,,NK,NK CD56bright,MAIT,,,
+,NK,NKT,,NKT,,NK,,,,NK,NK,,,NKT,B Naive,NK,,,
+,NKT,NK CD56bright,,NK CD56bright,,NKT,,,,NKT,NKT,,,NK CD56bright,Treg,NKT,,,
+,NK CD56bright,B Naive,,B Naive,,NK CD56bright,,,,NK CD56bright,NK CD56bright,,,B Naive,cDC,NK CD56bright,,,
+,B Naive,Treg,,Treg,,B Naive,,,,B Naive,B Naive,,,Treg,,B Naive,,,
+,Treg,cDC,,cDC,,Treg,,,,Treg,Treg,,,cDC,,Treg,,,
+,cDC,,,,,cDC,,,,cDC,cDC,,,,,cDC,,,
